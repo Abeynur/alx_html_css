@@ -11,3 +11,14 @@ main{
  flex: 1;
  overflow-y: auto;
 }
+p{
+  color: red;
+}
+table,td,th{
+  border: 1px solid black;
+  border-collapse: collapse ;
+  padding: 2px;
+      }
+      th{
+        text-align: left;
+      }
