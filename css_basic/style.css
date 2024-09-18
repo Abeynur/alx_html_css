@@ -1,0 +1,13 @@
+body{
+display: flex;
+flex-direction: column;
+overflow-y: auto;
+}
+main{
+  display: flex;
+  flex-direction: row;
+  flex: auto;
+ flex: 2;
+ flex: 1;
+ overflow-y: auto;
+}
