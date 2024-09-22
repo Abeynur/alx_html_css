@@ -1,0 +1,108 @@
+a{
+  color: inherit;
+  text-decoration: inherit;
+  color: aliceblue;
+}
+.im{
+  border-radius: 70px;
+}
+strong{
+  color: blueviolet;
+}
+.h2-color{
+  text-align: center;
+  color: white;
+}
+.nav1{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.img1{
+  width: 100px;
+}
+li{
+  list-style: none;
+ display: inline-block;
+ padding: 20px;
+}
+.section1{
+  background-image: url('image/Object.png');
+}
+.main-div1{
+  text-align: center;
+  padding: 10px;
+}
+.span1{
+  margin: 3px;
+}
+.div2{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  align-items: center;
+}
+h1{
+  color: white;
+  font-size: 100px;
+}
+button{
+  margin-left: 550px;
+  display: block;
+  background-color: rgb(167, 64, 167);
+  color: white;
+  width: 200px;
+  height: 60px;
+  border-radius: 100px;
+  
+}
+.img1{
+  width: 100px;
+}
+.section2{
+  display: grid;
+  grid-template-columns: 200px 1fr ;
+  background-color: rgb(204, 101, 204);
+}
+.popular{
+ 
+  background-color: white;
+}
+.img3{
+  width: 60px;
+}
+.div3{
+  display: grid;
+  grid-template-columns: 300px 300px 300px 300px;
+}
+.popular1{
+  display: grid;
+  grid-template-columns: 300px 300px 300px 300px;
+}
+.h2{
+  text-align: center;
+}
+.section3{
+  background-color: rgb(14, 9, 94);
+ 
+}
+.white{
+  color: beige;
+}
+.section4{
+  background-color: white;
+  
+}
+.div6{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.foot{
+  background-color: rgb(3, 3, 32);
+}
+div9{
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
+.of{
+width: 100px;
+}
